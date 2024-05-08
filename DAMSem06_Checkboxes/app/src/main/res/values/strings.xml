@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAMSem06_Checkboxes</string>
+    <string name="checkbox_introduccionpython" />
+    <string name="checkbox_introduccionPython">Introducción a Python</string>
+    <string name="checkbox_powerbi">Power BI - Caso Covid 19</string>
+    <string name="checkbox_machine_learning">Machine Learning</string>
+</resources>
